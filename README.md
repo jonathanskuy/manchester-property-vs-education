@@ -32,6 +32,7 @@ TBD
 - Description: Dataset containing residential property transaction data across England and Wales
 - Version: 2020-2024
 - Key Variables Used:
+  - Transaction Unique Identifier
   - Price
   - Date of Transfer
   - Property Type (Detached, Semi-Detached, Terraced, Flats/Maisonettes, Other)
