@@ -74,6 +74,14 @@ TBD
   - IMD Decile
 - Purpose: Serves as a control variable to consider socioeconomic differences between areas.
 - Link: [English Indices of Deprivation 2025](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2025)
+### Middle layer Super Output Areas (December 2021) Boundaries EW BGC (V3)
+- Provider: Office for National Statistics (ONS)
+- Description: Dataset containing the geographic boundaries of Middle layer Super Output Areas (MSOAs) in the UK.
+- Version: December 2021
+- Key Variables Used:
+  - TBD
+- Purpose: Used to enable spatial mapping of property transactions, education quality, and deprivation of areas across Manchester.
+- Link: [Middle layer Super Output Areas (December 2021) Boundaries EW BGC (V3)](https://geoportal.statistics.gov.uk/datasets/295e076b89b542e497e05632706ab429/about)
 
 ## Limitations and Ethical Considerations
 TBD
