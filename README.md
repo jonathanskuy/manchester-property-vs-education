@@ -49,7 +49,7 @@ TBD
   - As At Date
   - Postcode
   - Overall Effectiveness (1-4)
-- Purpose: Provides data for the independent variable (education quality in Manchester).
+- Purpose: Provides data for the main independent variable (education quality in Manchester).
 - Link: [Five-Year Ofsted Inspection Data](https://www.gov.uk/government/publications/five-year-ofsted-inspection-data)
 ### ONS Postcode Directory (August 2025)
 - Provider: Office for National Statistics (ONS)
@@ -61,7 +61,8 @@ TBD
   - Latitude
   - Longitude
   - LSOA Code
-- Purpose: Used to link property transactions and the nearest school, as well as to aggregate data at the LSOA level.
+  - MSOA Code
+- Purpose: Used to aggregate data together at the MSOA level.
 - Link: [ONS Postcode Directory (August 2025)](https://geoportal.statistics.gov.uk/datasets/295e076b89b542e497e05632706ab429/about)
 ### English Indices of Deprivation 2025
 - Provider: UK Government (MHCLG)
@@ -79,7 +80,8 @@ TBD
 - Description: Dataset containing the geographic boundaries of Middle layer Super Output Areas (MSOAs) in the UK.
 - Version: December 2021
 - Key Variables Used:
-  - TBD
+  - MSOA Code
+  - Geometry
 - Purpose: Used to enable spatial mapping of property transactions, education quality, and deprivation of areas across Manchester.
 - Link: [Middle layer Super Output Areas (December 2021) Boundaries EW BGC (V3)](https://geoportal.statistics.gov.uk/datasets/295e076b89b542e497e05632706ab429/about)
 
