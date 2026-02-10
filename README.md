@@ -7,8 +7,8 @@ TBD
 The main aim of this project is to explore and analyse the relationship between property prices and education in Manchester and determine places suitable for doing property business, with the analytical aim focusing on inference.
 
 ## Objectives
-1. **“To investigate the relationship between property prices in Manchester and the education quality within the area.”:** The correlation between these variables will be analysed, where a positive correlation indicates higher education quality increases property prices.
-2. **“To determine the suitability of doing property business in subregions within Manchester based on the surrounding area’s education quality.”:** Generally, investment suitability here could be indicated by property prices, where higher prices can mean higher demand.
+1.	**“To investigate the relationship between property prices in Manchester and the education quality within the area, and the effect of having nearby schools within the area.”:** The correlation between these variables will be analysed, where a positive correlation indicates higher education quality increases property prices. Alternatively, as some areas may contain no schools or no valid school ratings/scores, the effect of having nearby schools within the area will be studied as well.
+2.	**“To determine the suitability of doing property business in subregions within Manchester based on the surrounding area’s education quality.”:** Generally, investment suitability here could be indicated by property prices, where higher prices can mean higher demand.
 
 
 ## Methods
