@@ -1,7 +1,7 @@
 # Exploring the Relationship Between Property Prices and Education Quality in Manchester
 
 ## Overview
-TBD
+This is a data science project focusing on exploring the relationship between property prices in Manchester and the quality of nearby schools and educational institutes.
 
 ## Aim
 The main aim of this project is to explore and analyse the relationship between property prices and education in Manchester and determine places suitable for doing property business, with the analytical aim focusing on inference. This project will also briefly analyse the effect of having a nearby school in the area on property prices in Manchester.
