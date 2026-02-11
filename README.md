@@ -12,7 +12,7 @@ The main aim of this project is to explore and analyse the relationship between 
 
 
 ## Methods
-TBD
+TBD (multiple linear regression, etc etc)
 
 ## Results
 TBD
