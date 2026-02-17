@@ -28,8 +28,8 @@ TBD
 
 ## Data Sources
 ### Price Paid Data
-- Provider: UK HM Land Registry
-- Description: Dataset containing residential property transaction data across England and Wales
+- Provider: HM Land Registry
+- Description: Dataset containing residential property transaction data across England and Wales.
 - Version: 2020-2024
 - Key Variables Used:
   - Transaction Unique Identifier
@@ -65,7 +65,7 @@ TBD
 - Purpose: Used to aggregate data together at the MSOA level.
 - Link: [ONS Postcode Directory (August 2025)](https://geoportal.statistics.gov.uk/datasets/295e076b89b542e497e05632706ab429/about)
 ### English Indices of Deprivation 2025
-- Provider: UK Government (MHCLG)
+- Provider: Ministry of Housing, Communities and Local Government (MHCLG)
 - Description: Dataset containing measures of deprivation across areas in England.
 - Version: IMD 2025
 - Key Variables Used:
